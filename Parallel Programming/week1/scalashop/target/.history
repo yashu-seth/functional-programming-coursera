@@ -1,0 +1,25 @@
+test
+comsole\
+console
+test
+runMain scalashop.VerticalBoxBlurRunner
+val r1: List[Int] = (0 to src.width by numTasks).toList
+    val r2: List[Int] = r1.tail.map(_ - 1) ++ List(src.width)
+    val r3: List[(Int, Int)] = r1 zip r2
+runMain scalashop.VerticalBoxBlurRunner
+test
+231
+test
+runMain scalashop.VerticalBoxBlurRunner
+test
+runMain scalashop.HorizontalBoxBlurRunner
+runMain scalashop.ScalaShop
+submit yashuseth2503@gmail.com gYVpgtSmqriRHgx1
+test
+submit yashuseth2503@gmail.com en3F1IhwDXQlOhao
+test
+submit yashuseth2503@gmail.com Y52rtGWccKArTH52
+test
+submit yashuseth2503@gmail.com IS8eYZs7VJO59XYP
+test
+submit yashuseth2503@gmail.com IS8eYZs7VJO59XYP
