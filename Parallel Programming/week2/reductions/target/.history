@@ -1,0 +1,31 @@
+runMain reductions.ParallelCountChangeRunner
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+last compile:runMain
+console
+runMain reductions.ParallelParenthesesBalancingRunner
+exit
+runMain reductions.ParallelParenthesesBalancingRunner
+exit
+runMain reductions.ParallelParenthesesBalancingRunner
+n
+runMain reductions.ParallelParenthesesBalancingRunner
+n
+sbt
+runMain reductions.ParallelParenthesesBalancingRunner
+exit
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+test\
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+runMain reductions.LineOfSightRunner
+test
+runMain reductions.LineOfSightRunner
+exir
+runMain reductions.LineOfSightRunner
+submit yashuseth2503@gmail.com gKB9BixyyToDyD8h
+test
+submit yashuseth2503@gmail.com ZPyRcCjUfRJCS9aK
+exit
